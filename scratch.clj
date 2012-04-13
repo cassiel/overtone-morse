@@ -20,3 +20,6 @@
 (time-it (m/morse "SMS SMS SMS"))
 
 (time-it (m/morse "Morse for Overtone by Nick Rothwell, nick@cassiel.com, @cassieldotcom"))
+
+(time-it (m/morse "Calling all. This is our last cry before our eternal silence."))
+                                        ; http://www.economist.com/node/183572
