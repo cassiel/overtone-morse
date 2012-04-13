@@ -1,6 +1,6 @@
 (defproject overtone-morse "0.1.0-SNAPSHOT"
   :description "Morse code generator in Overtone"
-  :url "http://example.com/FIXME"
+  :url "https://github.com/cassiel/overtone-morse"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.3.0"]
