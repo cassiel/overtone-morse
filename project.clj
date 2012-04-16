@@ -1,4 +1,4 @@
-(defproject overtone-morse "0.1.0-SNAPSHOT"
+(defproject eu.cassiel/overtone-morse "1.0.0"
   :description "Morse code generator in Overtone"
   :url "https://github.com/cassiel/overtone-morse"
   :license {:name "Eclipse Public License"
