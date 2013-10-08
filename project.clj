@@ -3,6 +3,6 @@
   :url "https://github.com/cassiel/overtone-morse"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[org.clojure/clojure "1.3.0"]
+  :dependencies [[org.clojure/clojure "1.5.1"]
                  [expectations "1.3.6"]
-                 [overtone "0.6.0"]])
+                 [overtone "0.9.0-SNAPSHOTx"]])
